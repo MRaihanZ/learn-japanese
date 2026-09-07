@@ -1,4 +1,4 @@
-#Learn Japanese
+# Learn Japanese
 
 this project created for learning japanese language and culture
 
